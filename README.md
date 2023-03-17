@@ -1,5 +1,7 @@
 # tercer-proyecto_tags
 
+Video del que tomo el ejercicio: https://www.youtube.com/watch?v=aJShMgOmAjE
+
 ![](https://github.com/NeelBit/tercer-proyecto-vue_tags/blob/main/cap.jpg)
 
 This template should help get you started developing with Vue 3 in Vite.
